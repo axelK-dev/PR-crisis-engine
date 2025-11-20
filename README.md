@@ -1,7 +1,20 @@
 # PR Crisis Engine
 
-A modular platform for managing public relations crises with decision matrices, AI-driven insights, and secure configuration practices.
+!Python 
+!License 
+!Status 
 
+Created for managing public relations crises with decision matrices, AI-driven insights, and secure configuration practices.
+
+> A modular platform for managing public relations crises with decision matrices, AI-driven insights, and secure configuration practices.
+
+---
+
+## 🚀 Quick Start
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/axelK-dev/PR-crisis-engine.git
+   cd PR-crisis-engine
 ---
 
 ## 📚 Documentation Index
@@ -9,15 +22,22 @@ A modular platform for managing public relations crises with decision matrices, 
 Navigate through the key resources and templates:
 
 ### Wiki Templates
-- Home
-- Architecture Overview
-- Brand Voice AI
-- [Compliance & Governance](wiki_templates/Compliance_Governancesis Typology](wiki_templates/Crisis_Typemplates/DeploymentFeatures
-- Roadmap
-- Testing & Validation
-- [Use Cases](wiki_templates/Use_Cces
-- Crisis Decision Matrix Tool Overview
-- BBC Crisis Case Study
+
+This project includes a set of structured wiki templates for documentation and knowledge management:
+
+- **Architecture.md** – System architecture overview.
+- **Brand_Voice_AI.md** – Guidelines for AI-driven brand voice.
+- **Compliance_Governance.md** – Compliance and governance standards.
+- **Configuration_Customization.md** – Configuration and customization instructions.
+- **Crisis_Typology.md** – Classification of crisis types.
+- **Deployment_Guide.md** – Steps for deploying the engine.
+- **Ethical_Risk.md** – Ethical risk considerations.
+- **FAQ.md** – Frequently asked questions.
+- **Home.md** – Main wiki landing page.
+- **Key_Features.md** – Highlights of core features.
+- **Roadmap.md** – Planned development roadmap.
+- **Testing_Validation.md** – Testing and validation procedures.
+- **Use_Cases.md** – Practical use cases and examples.
 
 ---
 

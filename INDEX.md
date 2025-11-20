@@ -18,8 +18,7 @@ This index provides quick navigation to all documentation resources.
 - [Use Cases](wiki_templates/Use_Cases.md)
 
 ## Additional Resources
-- [Crisis Decision Matrix Tool Overview](crisis-decision-matrix-tool_wiki.md)
-- [BBC Crisis Case Study](BBC Crisis.txt)
+- [BBC Crisis Case Study](BBC-Crisis.md)
 
 ## Setup Guides
 - [Secure Setup Guide](README.md)

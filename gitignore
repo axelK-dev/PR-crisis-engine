@@ -1,7 +1,0 @@
-# Ignore environment files and sensitive data
-.env
-*.db
-__pycache__/
-*.zip
-*.txt
-*.log

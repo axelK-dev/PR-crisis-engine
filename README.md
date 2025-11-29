@@ -1,23 +1,19 @@
 # PR Crisis Engine
 
-!Python 
-!License 
-!Status 
-
-Created for managing public relations crises with decision matrices, AI-driven insights, and secure configuration practices.
+![Engine Header](/engine_header.png)
 
 > A modular platform for managing public relations crises with decision matrices, AI-driven insights, and secure configuration practices.
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 1. **Clone the repo**
    ```bash
    git clone https://github.com/axelK-dev/PR-crisis-engine.git
    cd PR-crisis-engine
 ---
 
-## 📚 Documentation Index
+## Documentation Index
 
 Navigate through the key resources and templates:
 
@@ -39,9 +35,10 @@ This project includes a set of structured wiki templates for documentation and k
 - **Testing_Validation.md** – Testing and validation procedures.
 - **Use_Cases.md** – Practical use cases and examples.
 
+![Crisis Alert](/crisis_alert.png)
 ---
 
-## 🔐 Crisis Decision Matrix Tool - Secure Setup Guide
+## Crisis Decision Matrix Tool - Secure Setup Guide
 
 ### 1. Environment Variables Setup
 To keep your API keys secure, use a `.env` file instead of hardcoding them.
@@ -82,6 +79,7 @@ For production deployments, use Azure Key Vault instead of `.env`.
 3. Replace `os.getenv()` calls in `config_loader.py` with `client.get_secret("secret-name").value`.
 4. Ensure your app has proper Azure RBAC permissions to access Key Vault.
 
+![Modular Engine](/mod_engine.png)
 ---
 
 ### 3. Security Best Practices
@@ -90,6 +88,7 @@ For production deployments, use Azure Key Vault instead of `.env`.
 - Use least privilege principles for Azure Key Vault access.
 
 ---
+![Python Badge](/python_badge.png)
 
 ### 4. Running the Tool
 Launch the dashboard:

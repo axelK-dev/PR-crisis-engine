@@ -2,6 +2,9 @@
 
 This index provides quick navigation to all documentation resources.
 
+## Setup Guides
+- [Secure Setup Guide](README.md)
+
 ## Wiki Templates
 - [Home](wiki_templates/Home.md)
 - [Architecture Overview](wiki_templates/Architecture.md)
@@ -19,6 +22,3 @@ This index provides quick navigation to all documentation resources.
 
 ## Additional Resources
 - [BBC Crisis Case Study](BBC-Crisis.md)
-
-## Setup Guides
-- [Secure Setup Guide](README.md)
